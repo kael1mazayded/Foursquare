@@ -215,4 +215,4 @@ Foursquare is offered as a full free version, meaning you get all features and u
 Start discovering new places and connecting with friends today! Download Foursquare for free and unlock the full potential of your location-based social experience!
 
 ---
-**Last updated:** 2026-11-11 22:24:47 UTC
+**Last updated:** 2026-11-12 03:32:01 UTC
